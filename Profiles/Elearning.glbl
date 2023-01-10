@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Elearning</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>home page for tutorial case</description>
+      <initValue>'http://elearning.wsiz.wroc.pl/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

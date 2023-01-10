@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logowanie_przyklad</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c36e9b1-04a7-49e1-9216-fee81f69c11f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57df83af-716f-4597-ad3d-ea8c6f2feb8f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ee9ac78-c1ae-4f3a-b184-9d7dba2b09fb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5134342-a85c-4a05-bac0-1dbd1e23a854</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'qwerty'</defaultValue>
+      <description>Nazwa uzytkownika</description>
+      <id>57df83af-716f-4597-ad3d-ea8c6f2feb8f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description>Haslo uzytkownika</description>
+      <id>8ee9ac78-c1ae-4f3a-b184-9d7dba2b09fb</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>'Niewłaściwa nazwa użytkownika lub hasło, spróbuj ponownie'</defaultValue>
+      <description>Error message after wrong data pass</description>
+      <id>a5134342-a85c-4a05-bac0-1dbd1e23a854</id>
+      <masked>false</masked>
+      <name>error_msg</name>
+   </variable>
+</TestCaseEntity>
